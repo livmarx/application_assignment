@@ -1,6 +1,20 @@
-# Assignment
+# To Run The App:
 
-## Objectives
+## 1. open terminal
+
+## 2. cd into application_assignment
+
+## 3. run the command `node index.js'
+
+## 4. in your browser, go to `http://localhost:3000/`
+
+## 5. refresh the page to see the movie quote change!
+
+## --------------------------------------------------------------
+
+### Assignment
+
+#### Objectives
 
 By the end of this project you will:
 
@@ -8,11 +22,11 @@ By the end of this project you will:
 - install a npm package.
 - debug a piece of code.
 
-## Introduction
+#### Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.
 
-## Specifications
+#### Specifications
 
 The finished project:
 
@@ -22,11 +36,11 @@ The finished project:
 
 ![working app](app.gif)
 
-## Submission Requirements
+#### Submission Requirements
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
-## References
+#### References
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
