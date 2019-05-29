@@ -4,7 +4,7 @@
 
 ## 2. cd into application_assignment
 
-## 3. run the command `node index.js'
+## 3. run the command `node index.js`
 
 ## 4. in your browser, go to `http://localhost:3000/`
 
