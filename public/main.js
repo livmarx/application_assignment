@@ -3,3 +3,4 @@ fetch('/quote')
   .then(data => {
     document.getElementById('quote').innerText = data.quote;
   });
+  

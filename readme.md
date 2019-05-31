@@ -1,6 +1,6 @@
 # To Run The App:
 
-## 1. open terminal
+## 1. fork and clone repo
 
 ## 2. cd into application_assignment
 
